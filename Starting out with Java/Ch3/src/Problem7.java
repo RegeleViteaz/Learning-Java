@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Starting out with Java Programming Challenge Chapter 3 Problem 7
  * User enters an amount of seconds and displays its equivalent in minutes, hours and days
  */
-public class problem7
+public class Problem7
 {
     public static void main(String[] args)
     {
@@ -16,6 +16,6 @@ public class problem7
         String name2 = keyboard.nextLine();
         System.out.println("Enter person 3 name");
         String name3 = keyboard.nextLine();
-        
+
     }
 }

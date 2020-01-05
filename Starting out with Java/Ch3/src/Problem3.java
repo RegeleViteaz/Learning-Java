@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Starting out with Java Programming Challenge Chapter 3 Problem 3
  * User enters his weight and height and calculates his BMI
  */
-public class problem3
+public class Problem3
 {
     public static void main(String[] args)
     {

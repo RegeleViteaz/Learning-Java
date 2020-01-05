@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Starting out with Java Programming Challenge Chapter 3 Problem 1
  * User enters a number between 1 and 5 and displays that number in Roman Numeral
  */
-public class problem1
+public class Problem1
 {
     public static void main(String[] args)
     {
@@ -13,7 +13,7 @@ public class problem1
         System.out.println("Enter a number between 1 and 5");
         int decimalNum = keyboard.nextInt();
 
-        while(decimalNum < 1 || decimalNum > 5)
+        while (decimalNum < 1 || decimalNum > 5)
         {
             System.out.println("You entered an invalid number.");
             System.out.println("Enter a number between 1 and 5");

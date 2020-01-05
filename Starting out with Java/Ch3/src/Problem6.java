@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Starting out with Java Programming Challenge Chapter 3 Problem 6
  * User enters an amount of seconds and displays its equivalent in minutes, hours and days
  */
-public class problem6
+public class Problem6
 {
     public static void main(String[] args)
     {

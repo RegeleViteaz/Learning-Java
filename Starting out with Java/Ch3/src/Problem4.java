@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Starting out with Java Programming Challenge Chapter 3 Problem 4
  * User enters a day, a month and a year in numeric form. It then determines if these values are magic
  */
-public class problem4
+public class Problem4
 {
     public static void main(String[] args)
     {
