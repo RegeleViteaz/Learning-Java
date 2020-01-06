@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 /**
  * Date: 5/1/2020
  * Starting out with Java Programming Challenge Chapter 3 Problem 8: Software Sales
