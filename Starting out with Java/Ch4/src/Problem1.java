@@ -17,6 +17,7 @@ public class Problem1
         System.out.print(msg);
         int inputValue = keyboard.nextInt();
 
+        // Input Validation
         while(inputValue < 0)
         {
             System.out.println("You did not enter a positive nonzero integer value");
@@ -26,6 +27,7 @@ public class Problem1
 
         for(int i=1; i <= inputValue; i++)
         {
+            // Prints the addition (+) the correct number of times
             if(i != inputValue)
                 System.out.print(i + " + ");
             else
