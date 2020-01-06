@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  * Date: 17/11/2019
- * Starting out with Java Programming Challenge Chapter 3 Problem 1
+ * Starting out with Java Programming Challenge Chapter 3 Problem 1: Roman Numerals
  * User enters a number between 1 and 5 and displays that number in Roman Numeral
  */
 public class Problem1

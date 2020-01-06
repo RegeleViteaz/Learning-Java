@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  * Date: 17/11/2019
- * Starting out with Java Programming Challenge Chapter 3 Problem 6
+ * Starting out with Java Programming Challenge Chapter 3 Problem 6: Time Calculator
  * User enters an amount of seconds and displays its equivalent in minutes, hours and days
  */
 public class Problem6

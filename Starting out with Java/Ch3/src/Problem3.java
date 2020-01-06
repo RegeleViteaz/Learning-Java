@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  * Date: 17/11/2019
- * Starting out with Java Programming Challenge Chapter 3 Problem 3
+ * Starting out with Java Programming Challenge Chapter 3 Problem 3: Body Mass Index
  * User enters his weight and height and calculates his BMI
  */
 public class Problem3

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  * Date: 17/11/2019
- * Starting out with Java Programming Challenge Chapter 3 Problem 5
+ * Starting out with Java Programming Challenge Chapter 3 Problem 5: Mass and Weight
  * User enters an object's mass, calculates in weight in newtons and displays an appropriate message
  */
 public class Problem5

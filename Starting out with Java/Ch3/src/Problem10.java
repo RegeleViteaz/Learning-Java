@@ -1,8 +1,7 @@
 import java.util.Scanner;
-
 /**
  * Date: 5/1/2020
- * Starting out with Java Programming Challenge Chapter 3 Problem 9: Fat Gram Calculator
+ * Starting out with Java Programming Challenge Chapter 3 Problem 10: Fat Gram Calculator
  * Program that asks the user to enter the number of calories and fat grams in a food item and displays a message.
  */
 public class Problem10

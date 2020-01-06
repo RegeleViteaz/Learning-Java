@@ -1,8 +1,7 @@
 import java.util.Scanner;
-
 /**
  * Date: 17/11/2019
- * Starting out with Java Programming Challenge Chapter 3 Problem 7
+ * Starting out with Java Programming Challenge Chapter 3 Problem 7: Sorted Names
  * A program that asks the user to enter three names, and then displays the names sorted in ascending order
  * I cannot use any type of loop
  */
