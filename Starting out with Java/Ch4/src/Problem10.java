@@ -14,6 +14,7 @@ public class Problem10
         int userInt;
         int smallest;
         int largest;
+        StringBuilder list = new StringBuilder();
 
         System.out.print("Enter a series of integers or -99 to exit ");
         userInt = keyboard.nextInt();
@@ -26,9 +27,11 @@ public class Problem10
                 smallest = userInt;
             if(userInt > largest)
                 largest = userInt;
+            list.append(userInt).append(" ");
             System.out.print("Enter a series of integers or -99 to exit ");
             userInt = keyboard.nextInt();
         }
+        System.out.println("List of values entered: " + list);
         System.out.println("Smallest userInt: " + smallest +
                            "\nLargest userInt: " + largest);
 
@@ -40,6 +43,7 @@ public class Problem10
                 smallest = userInt;
             if(userInt > largest)
                 largest = userInt;
+            list.append(userInt).append(" ");
             System.out.println("Enter a series of integers or -99 to exit");
             userInt = keyboard.nextInt();
 
