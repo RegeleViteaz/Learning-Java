@@ -21,11 +21,11 @@ public class Problem10
         smallest = userInt;
         largest = userInt;
 
-        while(userInt != SENTINEL_VALUE)
+        while (userInt != SENTINEL_VALUE)
         {
-            if(userInt < smallest)
+            if (userInt < smallest)
                 smallest = userInt;
-            if(userInt > largest)
+            if (userInt > largest)
                 largest = userInt;
             list.append(userInt).append(" ");
             System.out.print("Enter a series of integers or -99 to exit ");
@@ -33,7 +33,7 @@ public class Problem10
         }
         System.out.println("List of values entered: " + list);
         System.out.println("Smallest userInt: " + smallest +
-                           "\nLargest userInt: " + largest);
+                                   "\nLargest userInt: " + largest);
 
         //Problem can be done with do while and while do
         /*
