@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Date: 01/15/2020
- * Starting out with Java Programming Challenge Chapter 4 Problem 13: Budget Analysis
+ * Starting out with Java Programming Challenge Chapter 4 Problem 16: Budget Analysis
  * Program that asks the user to enter the amount that he or she has budgeted for a month and
  * display the amount that the user is over or under budget
  */
