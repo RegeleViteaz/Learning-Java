@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Problem16
 {
-    public static void main(String [] args)
+    public static void main(String[] args)
     {
         double total = 0;
         Scanner keyboard = new Scanner(System.in);
