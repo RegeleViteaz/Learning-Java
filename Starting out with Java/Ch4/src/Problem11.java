@@ -20,11 +20,11 @@ public class Problem11
             {
                 if(rows == 1)
                 {
-                    System.out.print("| " + celsius);
+                    System.out.printf("|%d", celsius);
                 }
                 else
                 {
-                    System.out.println("\t\t\t " + fahrenheit);
+                    System.out.printf("\t\t\t%3.2f|\n",fahrenheit);
                 }
             }
             celsius++;
