@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class EmployeeDemo
+{
+    public static void main(String[] args)
+    {
+        Employee employee1 = new Employee("Susan Meyers", 47899, "Accounting", "Position");
+        Employee employee2 = new Employee("Mark Jones", 39119);
+        Employee employee3 = new Employee();
+
+        employee2.setDepartment("IT");
+        employee2.setPosition("Programmer");
+
+        employee3.setName("Joy Rogers");
+        employee3.setIdNumber(81774);
+        employee3.setDepartment("Manufacturing");
+        employee3.setPosition("Engineer");
+
+        System.out.println("Name\t\t\tID Number\t\tDepartment\t\tPosition");
+        System.out.println("--------------------------------------------------------------");
+        System.out.println(employee1.getName() + "\t" + employee1.getIdNumber() + "\t\t" +
+                           employee1.getDepartment() + "\t\t\t" + employee1.getPosition());
+        System.out.println(employee2.getName() + "\t\t" + employee2.getIdNumber() + "\t\t" +
+                           employee2.getDepartment() + "\t\t\t\t\t" + employee2.getPosition());
+        System.out.println(employee3.getName() + "\t\t" + employee3.getIdNumber() + "\t\t" +
+                           employee3.getDepartment() + "\t\t" + employee3.getPosition());
+
+    }
+}
+
