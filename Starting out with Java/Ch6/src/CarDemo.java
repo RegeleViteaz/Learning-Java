@@ -1,3 +1,9 @@
+/**
+ * Date: 01/23/2020
+ * Starting out with Java Programming Challenge Chapter 6 Problem 2: Car class
+ * Program runs a test of the Car class
+ */
+
 public class CarDemo
 {
     public static void main(String[] args)

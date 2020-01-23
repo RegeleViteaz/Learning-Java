@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+ * Date: 01/23/2020
+ * Starting out with Java Programming Challenge Chapter 6 Problem 1: Employee class
+ * Program runs a test of the Employee class
+ */
+
 public class EmployeeDemo
 {
     public static void main(String[] args)

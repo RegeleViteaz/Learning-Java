@@ -1,3 +1,9 @@
+/**
+ * Date: 01/23/2020
+ * Starting out with Java Programming Challenge Chapter 6 Problem 2: Car class
+ * Car class holds information about a car
+ */
+
 public class Car
 {
     private int yearModel;

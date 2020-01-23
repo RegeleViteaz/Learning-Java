@@ -1,3 +1,9 @@
+/**
+ * Date: 01/23/2020
+ * Starting out with Java Programming Challenge Chapter 6 Problem 1: Employee class
+ * Employee class holds information about a class
+ */
+
 public class Employee
 {
     private String name; // The employee's name
