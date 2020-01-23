@@ -16,7 +16,7 @@ public class EmployeeDemo
         employee3.setDepartment("Manufacturing");
         employee3.setPosition("Engineer");
 
-        System.out.println("Name\t\t\tID Number\t\tDepartment\t\tPosition");
+        System.out.println("Name\t\t\tID Number\tDepartment\t\tPosition");
         System.out.println("--------------------------------------------------------------");
         System.out.println(employee1.getName() + "\t" + employee1.getIdNumber() + "\t\t" +
                            employee1.getDepartment() + "\t\t\t" + employee1.getPosition());
