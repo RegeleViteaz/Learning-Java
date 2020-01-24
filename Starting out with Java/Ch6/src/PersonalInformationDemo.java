@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+ * Date: 01/23/2020
+ * Starting out with Java Programming Challenge Chapter 6 Problem 3: Personal Information class
+ * Program that tests the Personal Information class
+ */
+
 public class PersonalInformationDemo
 {
     public static void main(String[] args)
