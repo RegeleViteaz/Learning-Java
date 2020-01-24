@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Date: 01/24/2020
  * Starting out with Java Programming Challenge Chapter 6 Problem 6: TestScores class
- * TestScores class holds information about test scores
+ * Program that tests the TestScore class
  */
 
 public class TestScoresDemo
